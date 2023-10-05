@@ -20,7 +20,10 @@ if (( USAGE > (100 - THRESHOLD) )); then
     echo "Disk space on $MOUNT is critically low." | mail -s "$SUBJECT" "$RECIPIENT"
 fi
 ```
+## To write the bullet points use -
 
+- this first point
+- this is second point
 
   
 
