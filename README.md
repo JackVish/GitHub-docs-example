@@ -51,6 +51,9 @@ fi
 ### Image
 <img width="300px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
+### Below is the image in own gitrepo
+![Photo from the assets directory in this git project]()
+
 ## References
 - [Instructions](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
