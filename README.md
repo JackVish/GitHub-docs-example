@@ -25,7 +25,30 @@ fi
 - this first point
 - this is second point
 
-### below code is attach Image
+## table and emoji
+| Name | ShortCode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | ☁️ |
+| Alarm | `:alarm_clock:` | ⏰ |
+| Apple | `:apple:` | 🍎 |
+| Heart | `:blue_heart:` | 💙 |
+
+## Below can be used to show the MD code in Documenatiaon
+```markdown
+| Name | ShortCode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | ☁️ |
+| Alarm | `:alarm_clock:` | ⏰ |
+| Apple | `:apple:` | 🍎 |
+| Heart | `:blue_heart:` | 💙 |
+```
+
+## Check Boxes in MD
+- [ ] Jack
+- [ ] Vish
+- [x] checked JackVish
+
+### Image
 <img width="300px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 ## References
