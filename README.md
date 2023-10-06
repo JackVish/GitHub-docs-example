@@ -4,7 +4,7 @@
   Code blocks in markdown make it *very easy copy*,paste and __share__ code
 
 
-  ```
+  ```bash
 #!/bin/bash
 
 # Set threshold percentage (e.g., 20 for 20%)
@@ -25,6 +25,10 @@ fi
 - this first point
 - this is second point
 
-  
+### below code is attach Image
+<img width="300px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+
+## References
+- [Instructions](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
   
